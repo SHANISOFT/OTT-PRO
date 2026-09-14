@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0355327A-E48F-4C05-AE9D-33961E664431}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTTPro.Domain", "src\OTTPro.Domain\OTTPro.Domain.csproj", "{D11CCB39-F9E5-4BAE-AEC8-9625417835D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTTPro.Application", "src\OTTPro.Application\OTTPro.Application.csproj", "{790E6646-BB3A-408A-BF19-9D6E8C479D7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTTPro.Infrastructure", "src\OTTPro.Infrastructure\OTTPro.Infrastructure.csproj", "{255B06BF-4801-48CD-8BF5-E87328D0B514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTTPro.API", "src\OTTPro.API\OTTPro.API.csproj", "{565641E0-3B67-4A1D-A6BF-1408958D920A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{E014F9A3-0B98-43D6-98F8-2F4310A236D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTTPro.UnitTests", "tests\OTTPro.UnitTests\OTTPro.UnitTests.csproj", "{B4DC1636-5B53-46C8-BF73-95278DF4C549}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D11CCB39-F9E5-4BAE-AEC8-9625417835D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D11CCB39-F9E5-4BAE-AEC8-9625417835D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D11CCB39-F9E5-4BAE-AEC8-9625417835D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D11CCB39-F9E5-4BAE-AEC8-9625417835D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{790E6646-BB3A-408A-BF19-9D6E8C479D7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{790E6646-BB3A-408A-BF19-9D6E8C479D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{790E6646-BB3A-408A-BF19-9D6E8C479D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{790E6646-BB3A-408A-BF19-9D6E8C479D7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{255B06BF-4801-48CD-8BF5-E87328D0B514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{255B06BF-4801-48CD-8BF5-E87328D0B514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{255B06BF-4801-48CD-8BF5-E87328D0B514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{255B06BF-4801-48CD-8BF5-E87328D0B514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{565641E0-3B67-4A1D-A6BF-1408958D920A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565641E0-3B67-4A1D-A6BF-1408958D920A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565641E0-3B67-4A1D-A6BF-1408958D920A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565641E0-3B67-4A1D-A6BF-1408958D920A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4DC1636-5B53-46C8-BF73-95278DF4C549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4DC1636-5B53-46C8-BF73-95278DF4C549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4DC1636-5B53-46C8-BF73-95278DF4C549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4DC1636-5B53-46C8-BF73-95278DF4C549}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D11CCB39-F9E5-4BAE-AEC8-9625417835D7} = {0355327A-E48F-4C05-AE9D-33961E664431}
+		{790E6646-BB3A-408A-BF19-9D6E8C479D7E} = {0355327A-E48F-4C05-AE9D-33961E664431}
+		{255B06BF-4801-48CD-8BF5-E87328D0B514} = {0355327A-E48F-4C05-AE9D-33961E664431}
+		{565641E0-3B67-4A1D-A6BF-1408958D920A} = {0355327A-E48F-4C05-AE9D-33961E664431}
+		{B4DC1636-5B53-46C8-BF73-95278DF4C549} = {E014F9A3-0B98-43D6-98F8-2F4310A236D5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "543loWDVTBM=",
+  "success": true,
+  "projectFilePath": "D:\\OTTPRO\\backend\\src\\OTTPro.Application\\OTTPro.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shani k\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
+    "C:\\Users\\Shani k\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.12\\microsoft.extensions.dependencyinjection.abstractions.10.0.12.nupkg.sha512",
+    "C:\\Users\\Shani k\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.12\\microsoft.extensions.logging.abstractions.10.0.12.nupkg.sha512",
+    "C:\\Users\\Shani k\\.nuget\\packages\\mongodb.bson\\3.11.1\\mongodb.bson.3.11.1.nupkg.sha512",
+    "C:\\Users\\Shani k\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.12\\system.diagnostics.diagnosticsource.10.0.12.nupkg.sha512",
+    "C:\\Users\\Shani k\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Shani k\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

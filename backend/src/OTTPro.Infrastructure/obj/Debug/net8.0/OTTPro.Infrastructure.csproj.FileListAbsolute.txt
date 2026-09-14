@@ -1,0 +1,17 @@
+D:\OTTPRO\backend\src\OTTPro.Infrastructure\obj\Debug\net8.0\OTTPro.Infrastructure.csproj.AssemblyReference.cache
+D:\OTTPRO\backend\src\OTTPro.Infrastructure\obj\Debug\net8.0\OTTPro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\OTTPRO\backend\src\OTTPro.Infrastructure\obj\Debug\net8.0\OTTPro.Infrastructure.AssemblyInfoInputs.cache
+D:\OTTPRO\backend\src\OTTPro.Infrastructure\obj\Debug\net8.0\OTTPro.Infrastructure.AssemblyInfo.cs
+D:\OTTPRO\backend\src\OTTPro.Infrastructure\obj\Debug\net8.0\OTTPro.Infrastructure.csproj.CoreCompileInputs.cache
+D:\OTTPRO\backend\src\OTTPro.Infrastructure\bin\Debug\net8.0\OTTPro.Infrastructure.deps.json
+D:\OTTPRO\backend\src\OTTPro.Infrastructure\bin\Debug\net8.0\OTTPro.Infrastructure.dll
+D:\OTTPRO\backend\src\OTTPro.Infrastructure\bin\Debug\net8.0\OTTPro.Infrastructure.pdb
+D:\OTTPRO\backend\src\OTTPro.Infrastructure\bin\Debug\net8.0\OTTPro.Application.dll
+D:\OTTPRO\backend\src\OTTPro.Infrastructure\bin\Debug\net8.0\OTTPro.Domain.dll
+D:\OTTPRO\backend\src\OTTPro.Infrastructure\bin\Debug\net8.0\OTTPro.Application.pdb
+D:\OTTPRO\backend\src\OTTPro.Infrastructure\bin\Debug\net8.0\OTTPro.Domain.pdb
+D:\OTTPRO\backend\src\OTTPro.Infrastructure\obj\Debug\net8.0\OTTPro.I.7542DA35.Up2Date
+D:\OTTPRO\backend\src\OTTPro.Infrastructure\obj\Debug\net8.0\OTTPro.Infrastructure.dll
+D:\OTTPRO\backend\src\OTTPro.Infrastructure\obj\Debug\net8.0\refint\OTTPro.Infrastructure.dll
+D:\OTTPRO\backend\src\OTTPro.Infrastructure\obj\Debug\net8.0\OTTPro.Infrastructure.pdb
+D:\OTTPRO\backend\src\OTTPro.Infrastructure\obj\Debug\net8.0\ref\OTTPro.Infrastructure.dll

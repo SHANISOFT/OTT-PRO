@@ -1,0 +1,12 @@
+D:\OTTPRO\backend\src\OTTPro.Domain\bin\Debug\net8.0\OTTPro.Domain.deps.json
+D:\OTTPRO\backend\src\OTTPro.Domain\bin\Debug\net8.0\OTTPro.Domain.dll
+D:\OTTPRO\backend\src\OTTPro.Domain\bin\Debug\net8.0\OTTPro.Domain.pdb
+D:\OTTPRO\backend\src\OTTPro.Domain\obj\Debug\net8.0\OTTPro.Domain.csproj.AssemblyReference.cache
+D:\OTTPRO\backend\src\OTTPro.Domain\obj\Debug\net8.0\OTTPro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\OTTPRO\backend\src\OTTPro.Domain\obj\Debug\net8.0\OTTPro.Domain.AssemblyInfoInputs.cache
+D:\OTTPRO\backend\src\OTTPro.Domain\obj\Debug\net8.0\OTTPro.Domain.AssemblyInfo.cs
+D:\OTTPRO\backend\src\OTTPro.Domain\obj\Debug\net8.0\OTTPro.Domain.csproj.CoreCompileInputs.cache
+D:\OTTPRO\backend\src\OTTPro.Domain\obj\Debug\net8.0\OTTPro.Domain.dll
+D:\OTTPRO\backend\src\OTTPro.Domain\obj\Debug\net8.0\refint\OTTPro.Domain.dll
+D:\OTTPRO\backend\src\OTTPro.Domain\obj\Debug\net8.0\OTTPro.Domain.pdb
+D:\OTTPRO\backend\src\OTTPro.Domain\obj\Debug\net8.0\ref\OTTPro.Domain.dll
