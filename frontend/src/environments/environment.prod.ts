@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://ott-pro-production.up.railway.app/api/v1',
+  apiUrl: 'https://ott-pro-production.up.railway.app',
   hubUrl: 'https://ott-pro-production.up.railway.app/hubs'
 };

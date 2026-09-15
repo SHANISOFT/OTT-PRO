@@ -15,3 +15,4 @@ D:\OTTPRO\backend\src\OTTPro.Infrastructure\obj\Debug\net8.0\OTTPro.Infrastructu
 D:\OTTPRO\backend\src\OTTPro.Infrastructure\obj\Debug\net8.0\refint\OTTPro.Infrastructure.dll
 D:\OTTPRO\backend\src\OTTPro.Infrastructure\obj\Debug\net8.0\OTTPro.Infrastructure.pdb
 D:\OTTPRO\backend\src\OTTPro.Infrastructure\obj\Debug\net8.0\ref\OTTPro.Infrastructure.dll
+D:\OTTPRO\backend\src\OTTPro.Infrastructure\obj\Debug\net8.0\OTTPro.Infrastructure.sourcelink.json

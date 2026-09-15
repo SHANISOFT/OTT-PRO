@@ -10,3 +10,4 @@ D:\OTTPRO\backend\src\OTTPro.Domain\obj\Debug\net8.0\OTTPro.Domain.dll
 D:\OTTPRO\backend\src\OTTPro.Domain\obj\Debug\net8.0\refint\OTTPro.Domain.dll
 D:\OTTPRO\backend\src\OTTPro.Domain\obj\Debug\net8.0\OTTPro.Domain.pdb
 D:\OTTPRO\backend\src\OTTPro.Domain\obj\Debug\net8.0\ref\OTTPro.Domain.dll
+D:\OTTPRO\backend\src\OTTPro.Domain\obj\Debug\net8.0\OTTPro.Domain.sourcelink.json

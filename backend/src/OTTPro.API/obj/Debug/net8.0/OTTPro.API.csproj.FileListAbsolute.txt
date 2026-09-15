@@ -69,3 +69,4 @@ D:\OTTPRO\backend\src\OTTPro.API\obj\Debug\net8.0\refint\OTTPro.API.dll
 D:\OTTPRO\backend\src\OTTPro.API\obj\Debug\net8.0\OTTPro.API.pdb
 D:\OTTPRO\backend\src\OTTPro.API\obj\Debug\net8.0\OTTPro.API.genruntimeconfig.cache
 D:\OTTPRO\backend\src\OTTPro.API\obj\Debug\net8.0\ref\OTTPro.API.dll
+D:\OTTPRO\backend\src\OTTPro.API\obj\Debug\net8.0\OTTPro.API.sourcelink.json
